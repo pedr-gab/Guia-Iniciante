@@ -1,0 +1,182 @@
+[
+  {
+    "nome": "Lógica de Programação e Algoritmos",
+    "subtitulo": "Fundamentos que todo dev precisa antes de pular pra linguagem.",
+    "descricao": "A lógica de programação é a base do desenvolvimento de software. Antes mesmo de escolher uma linguagem (como Python, JavaScript ou Java), vale entender como construir algoritmos, trabalhar com variáveis, laços, condições e funções. Isso ajuda você a pensar como programador, não só a memorizar sintaxe. Muitos iniciantes se perdem por não terem essa fundação matemática e lógica bem montada.",
+    "recurso_complementar": {
+      "tipo": "artigo",
+      "titulo": "5 Dicas e 3 Livros para Iniciantes na Programação",
+      "link": "https://www.dio.me/articles/5-dicas-e-3-livros-para-iniciantes-na-programacao"
+    }
+  },
+  {
+    "nome": "Boas Práticas de Programação",
+    "subtitulo": "Escrevendo código que não dá dor de cabeça depois.",
+    "descricao": "Saber escrever código que funciona é apenas parte do trabalho: escrever código limpo e sustentável é outra. Boas práticas envolvem nomeação de variáveis clara, modularização, teste, debug eficiente e padronização. Aprender isso desde o começo evita retrabalho e torna seu código profissional desde o primeiro projeto.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Code Complete – Steve McConnell",
+      "link": "https://en.wikipedia.org/wiki/Code_Complete"
+    }
+  },
+  {
+    "nome": "Mentalidade de Programador Profissional",
+    "subtitulo": "Como ir de iniciante para alguém que pensa como dev.",
+    "descricao": "Não é só sobre código é sobre postura. O programador profissional pensa em solução, eficiência e longo prazo. Ele erra rápido, aprende mais rápido ainda e constrói com propósito. Essa mentalidade separa quem só copia código de quem realmente desenvolve.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "The Pragmatic Programmer – Andrew Hunt & David Thomas",
+      "link": "https://en.wikipedia.org/wiki/The_Pragmatic_Programmer"
+    }
+  },
+  {
+    "nome": "Git e GitHub na Prática",
+    "subtitulo": "Versionamento não é luxo, é regra do jogo.",
+    "descricao": "Git é o que salva seu projeto do caos. Com ele, você controla versões, colabora com outras pessoas e evita perder horas de trabalho. Já o GitHub é a vitrine do desenvolvedor moderno. Quem ignora isso no começo, paga caro depois.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Pro Git – Scott Chacon e Ben Straub",
+      "link": "https://git-scm.com/book/pt-br/v2"
+    }
+  },
+  {
+    "nome": "Introdução ao Desenvolvimento Web",
+    "subtitulo": "O ponto de entrada mais comum e mais poderoso.",
+    "descricao": "HTML, CSS e JavaScript formam o trio essencial da web. Entender como uma página é estruturada, estilizada e torna-se interativa é fundamental para qualquer iniciante que queira ver resultados visuais rápidos e reais.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "HTML and CSS: Design and Build Websites – Jon Duckett",
+      "link": "https://www.amazon.com.br/dp/1118008189"
+    }
+  },
+  {
+    "nome": "Estrutura de Dados Básica",
+    "subtitulo": "Código rápido sem estrutura é ilusão.",
+    "descricao": "Listas, pilhas, filas e árvores são o coração de sistemas eficientes. Aprender estrutura de dados desde cedo evita soluções improvisadas e prepara o dev para desafios maiores, como performance e escalabilidade.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Estruturas de Dados e Algoritmos em Java – Robert Lafore",
+      "link": "https://www.amazon.com.br/dp/8576082675"
+    }
+  },
+  {
+    "nome": "Introdução à Engenharia de Software",
+    "subtitulo": "Programar é só parte do processo.",
+    "descricao": "Engenharia de Software ensina como planejar, modelar, documentar e manter sistemas. Isso separa o amador do profissional. Aqui o dev entende que software não é só código, é processo, qualidade e visão de longo prazo.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Engenharia de Software – Ian Sommerville",
+      "link": "https://www.amazon.com.br/dp/8580555354"
+    }
+  },
+  {
+    "nome": "Como Aprender a Programar de Forma Inteligente",
+    "subtitulo": "Método certo acelera o dobro.",
+    "descricao": "Muitos iniciantes travam porque não sabem estudar programação. Este conteúdo foca em técnicas de aprendizagem, prática deliberada, resolução de problemas e construção de projetos reais o caminho mais eficiente para evoluir.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Aprenda a Programar com Python – Allen B. Downey",
+      "link": "https://greenteapress.com/wp/think-python-2e/"
+    }
+  },
+  {
+    "nome": "Banco de Dados para Iniciantes",
+    "subtitulo": "Sem dados organizados, não existe sistema de verdade.",
+    "descricao": "Todo software sério depende de banco de dados. Aqui o iniciante aprende o básico de SQL, tabelas, relacionamentos e consultas. É o passo que transforma projetos simples em aplicações reais e estruturadas.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Use a Cabeça! SQL – Lynn Beighley",
+      "link": "https://www.amazon.com.br/dp/8576089742"
+    }
+  },
+  {
+    "nome": "Introdução à Programação Orientada a Objetos (POO)",
+    "subtitulo": "Pensar em objetos é pensar como software profissional.",
+    "descricao": "POO organiza o código em classes, métodos e objetos, facilitando reutilização, manutenção e escalabilidade. É aqui que o dev iniciante começa a sair do código bagunçado e entra em arquitetura sólida.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Java Como Programar – Paul Deitel & Harvey Deitel",
+      "link": "https://www.pearson.com/en-us/subject-catalog/p/java-how-to-program-early-objects/P200000006303"
+    }
+  },
+  {
+    "nome": "Introdução à Segurança da Informação",
+    "subtitulo": "Código sem segurança é risco anunciado.",
+    "descricao": "Ensinar o básico de segurança desde cedo é visão de futuro. O iniciante aprende sobre senhas fortes, criptografia, ataques comuns e boas práticas para proteger dados e sistemas.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Segurança da Informação – William Stallings",
+      "link": "https://www.amazon.com.br/dp/8543004793"
+    }
+  },
+  {
+    "nome": "Fundamentos de Sistemas Operacionais",
+    "subtitulo": "Entenda o que acontece por trás do código.",
+    "descricao": "Este conteúdo mostra como o sistema operacional gerencia memória, processos e arquivos. Com isso, o dev passa a compreender melhor desempenho, erros e comportamento das aplicações.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Sistemas Operacionais Modernos – Andrew S. Tanenbaum",
+      "link": "https://www.amazon.com.br/dp/8543005676"
+    }
+  },
+  {
+    "nome": "Primeiros Passos com APIs e Integrações",
+    "subtitulo": "Conectando sistemas e criando soluções reais.",
+    "descricao": "APIs são a ponte entre aplicações. Aqui o iniciante entende como consumir serviços externos, trabalhar com JSON e fazer integrações modernas — habilidade essencial no mercado atual.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "REST API Design Rulebook – Mark Masse",
+      "link": "https://www.oreilly.com/library/view/rest-api-design/9781449317904/"
+    }
+  },
+  {
+    "nome": "Introdução ao Teste de Software",
+    "subtitulo": "Código sem teste é aposta, não é engenharia.",
+    "descricao": "Testar não é opcional. O iniciante precisa entender o básico de testes unitários, funcionais e automatizados. Isso reduz falhas, aumenta a confiabilidade e cria mentalidade profissional desde cedo. Quem aprende isso primeiro, dispara na frente.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Introdução ao Teste de Software – Mauro Pezzè",
+      "link": "https://www.amazon.com.br/dp/8573076108"
+    }
+  },
+  {
+    "nome": "Fundamentos de UX/UI para Desenvolvedores",
+    "subtitulo": "Código bom que ninguém entende não serve.",
+    "descricao": "Experiência do usuário é parte do desenvolvimento moderno. O dev iniciante aprende que design não é só estética, é usabilidade, fluidez e eficiência. Isso cria produtos que as pessoas realmente querem usar.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Não Me Faça Pensar – Steve Krug",
+      "link": "https://www.amazon.com.br/dp/8576088509"
+    }
+  },
+  {
+    "nome": "Introdução ao DevOps",
+    "subtitulo": "Desenvolvimento moderno é integração, não isolamento.",
+    "descricao": "DevOps ensina como integrar desenvolvimento e operações, automatizar processos e melhorar a entrega contínua. O iniciante entende como seu código sai da máquina e vira produto disponível ao usuário final.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "The Phoenix Project – Gene Kim",
+      "link": "https://www.amazon.com.br/dp/0988262592"
+    }
+  },
+  {
+    "nome": "Pensamento Computacional",
+    "subtitulo": "A base mental por trás de todo grande programador.",
+    "descricao": "Pensamento computacional ensina a decompor problemas, reconhecer padrões e criar soluções estruturadas. É o cérebro do desenvolvedor em ação. Quem domina isso aprende qualquer linguagem depois.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Pensamento Computacional – Valéria L. S. Oliveira",
+      "link": "https://www.amazon.com.br/dp/8535285325"
+    }
+  },
+  {
+    "nome": "Introdução à Arquitetura de Software",
+    "subtitulo": "Código sem estrutura vira caos em escala.",
+    "descricao": "Arquitetura de software apresenta conceitos como camadas, padrões e organização de sistemas. O iniciante começa a entender como aplicações grandes são pensadas e estruturadas com eficiência e visão de longo prazo.",
+    "recurso_complementar": {
+      "tipo": "livro",
+      "titulo": "Arquitetura de Software na Prática – Len Bass",
+      "link": "https://www.amazon.com.br/dp/8575224635"
+    }
+  }
+]
